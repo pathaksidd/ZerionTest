@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14663" started-at="2017-07-24T05:15:13Z" finished-at="2017-07-24T05:15:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14663" started-at="2017-07-24T05:15:13Z" finished-at="2017-07-24T05:15:28Z">
+      <class name="zerion.test.ZerionTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:zerion.test.ZerionTest@6767c1fc]" name="BeforeTest" is-config="true" duration-ms="4214" started-at="2017-07-24T00:15:09Z" finished-at="2017-07-24T00:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:zerion.test.ZerionTest@6767c1fc]" name="loginTest" duration-ms="5229" started-at="2017-07-24T00:15:13Z" finished-at="2017-07-24T00:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="verifyCorrectUserTest()[pri:2, instance:zerion.test.ZerionTest@6767c1fc]" name="verifyCorrectUserTest" duration-ms="211" started-at="2017-07-24T00:15:18Z" finished-at="2017-07-24T00:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCorrectUserTest -->
+        <test-method status="PASS" signature="createNewRecordTest()[pri:3, instance:zerion.test.ZerionTest@6767c1fc]" name="createNewRecordTest" duration-ms="9195" started-at="2017-07-24T00:15:18Z" finished-at="2017-07-24T00:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewRecordTest -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:zerion.test.ZerionTest@6767c1fc]" name="AfterSuite" is-config="true" duration-ms="1008" started-at="2017-07-24T00:15:28Z" finished-at="2017-07-24T00:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- zerion.test.ZerionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

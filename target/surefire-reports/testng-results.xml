@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="personal.ParallelTestExecution.ParallelTestExecutionTest" duration-ms="27554" started-at="2017-07-22T23:30:54Z" finished-at="2017-07-22T23:31:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="27554" started-at="2017-07-22T23:30:54Z" finished-at="2017-07-22T23:31:22Z">
+      <class name="personal.ParallelTestExecution.ParallelTestExecutionTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:personal.ParallelTestExecution.ParallelTestExecutionTest@60f82f98]" name="BeforeTest" is-config="true" duration-ms="5926" started-at="2017-07-22T18:30:54Z" finished-at="2017-07-22T18:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:personal.ParallelTestExecution.ParallelTestExecutionTest@60f82f98]" name="test1" duration-ms="20225" started-at="2017-07-22T18:31:00Z" finished-at="2017-07-22T18:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:personal.ParallelTestExecution.ParallelTestExecutionTest@60f82f98]" name="test2" duration-ms="1" started-at="2017-07-22T18:31:21Z" finished-at="2017-07-22T18:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:personal.ParallelTestExecution.ParallelTestExecutionTest@60f82f98]" name="test3" duration-ms="1" started-at="2017-07-22T18:31:21Z" finished-at="2017-07-22T18:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:personal.ParallelTestExecution.ParallelTestExecutionTest@60f82f98]" name="test4" duration-ms="0" started-at="2017-07-22T18:31:21Z" finished-at="2017-07-22T18:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:personal.ParallelTestExecution.ParallelTestExecutionTest@60f82f98]" name="AfterTest" is-config="true" duration-ms="1371" started-at="2017-07-22T18:31:21Z" finished-at="2017-07-22T18:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- personal.ParallelTestExecution.ParallelTestExecutionTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- personal.ParallelTestExecution.ParallelTestExecutionTest -->
+</testng-results>

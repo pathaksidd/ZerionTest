@@ -17,8 +17,8 @@ public class ZerionTest {
 	WebDriverWait wait;
 
 	// ADMIN LOGIN CREDENTIALS - CAN ALSO BE ADDED THROUGH EXTERNAL EXCEL FILE
-	String username = "pathaksidd@gmail.com";
-	String password = "KetakiManasee#1";
+	String username = "siddharth";
+	String password = "password123";
 	String formName = "Demo IForm";
 
 	// ENTER THE DETAILS FOR NEW USER
